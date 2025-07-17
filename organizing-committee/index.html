@@ -110,6 +110,13 @@
             {% endfor %}
             {% endif %}
 
+            {% if site.data.chairs.local_support %}
+						<h1>Chalmers' local support</h1>
+            {% for chair in site.data.chairs.local_support %}
+              <li>{{ chair.firstname }} {{ chair.lastname }}, {{ chair.institution }}</li>
+            {% endfor %}
+            {% endif %}
+
           </div>
         </div>
       </div>

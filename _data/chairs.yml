@@ -426,7 +426,16 @@ doctoral_symposium_chairs:
 
  
 
- 
+local_support: 
+    - firstname: Monica
+      lastname: Månhammar
+      institution: Chalmers University of Technology, Gothenburg, Sweden
+    - firstname: Karin
+      lastname: Nyström
+      institution: Chalmers University of Technology, Gothenburg, Sweden
+    - firstname: Andrea
+      lastname: Brodén
+      institution: Chalmers University of Technology, Gothenburg, Sweden
 
 poster_demo_chairs: 
     - firstname: Miquel
