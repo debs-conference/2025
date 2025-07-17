@@ -117,6 +117,13 @@
             {% endfor %}
             {% endif %}
 
+            {% if site.data.chairs.volunteer_students %}
+						<h1>Volunteering Students</h1>
+            {% for chair in site.data.chairs.volunteer_students %}
+              <li>{{ chair.firstname }} {{ chair.lastname }}, {{ chair.institution }}</li>
+            {% endfor %}
+            {% endif %}
+
           </div>
         </div>
       </div>

@@ -425,17 +425,54 @@ doctoral_symposium_chairs:
 #       institution: SAP, US
 
  
-
 local_support: 
-    - firstname: Monica
-      lastname: Månhammar
-      institution: Chalmers University of Technology, Gothenburg, Sweden
-    - firstname: Karin
-      lastname: Nyström
-      institution: Chalmers University of Technology, Gothenburg, Sweden
-    - firstname: Andrea
-      lastname: Brodén
-      institution: Chalmers University of Technology, Gothenburg, Sweden
+  - firstname: Andrea
+    lastname: Brodén
+    institution: Chalmers University of Technology, Gothenburg, Sweden
+  - firstname: Monica
+    lastname: Månhammar
+    institution: Chalmers University of Technology, Gothenburg, Sweden
+  - firstname: Karin
+    lastname: Nyström
+    institution: Chalmers University of Technology, Gothenburg, Sweden
+
+volunteer_students: 
+  - firstname: Atmane
+    lastname: Ayoub Mansour Bahar
+    institution: Chalmers University of Technology, Gothenburg, Sweden
+  - firstname: Martin
+    lastname: Hilgendorf
+    institution: Chalmers University of Technology, Gothenburg, Sweden
+  - firstname: Wania
+    lastname: Khan
+    institution: Chalmers University of Technology, Gothenburg, Sweden
+  - firstname: David
+    lastname: Lidell
+    institution: Chalmers University of Technology, Gothenburg, Sweden
+  - firstname: Andreas
+    lastname: Loizou
+    institution: Technical University of Athens, Athens, Greece
+  - firstname: Linus
+    lastname: Magnusson
+    institution: Gothenburg University, Gothenburg, Sweden
+  - firstname: Kåre
+    lastname: von Geijer
+    institution: Chalmers University of Technology, Gothenburg, Sweden
+  - firstname: Vinh
+    lastname: Quang Ngo
+    institution: Chalmers University of Technology, Gothenburg, Sweden
+  - firstname: Jacob
+    lastname: Stacey Garby
+    institution: Chalmers University of Technology, Gothenburg, Sweden
+  - firstname: Rasmus
+    lastname: Thorsson
+    institution: Gothenburg University, Gothenburg, Sweden
+  - firstname: Yenan
+    lastname: Wang
+    institution: Chalmers University of Technology, Gothenburg, Sweden
+  - firstname: Jingyu
+    lastname: Liu
+    institution: Chalmers University of Technology, Gothenburg, Sweden
 
 poster_demo_chairs: 
     - firstname: Miquel
